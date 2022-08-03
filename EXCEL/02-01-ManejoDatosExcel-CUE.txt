@@ -1,0 +1,5 @@
+ID	Nombre	Apellido  	Salario  	FechaNacimiento 	Departamento
+1	Juan	Perez		3000		02/12/1995		Recursos Humanos
+2	Karla	Lara		5000		10/08/1989		Sistemas
+3	Carlos	Esparza		10000		05/01/1985		Dirección
+
